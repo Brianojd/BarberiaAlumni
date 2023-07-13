@@ -49,7 +49,7 @@ main{
     
 }
 .productos{
-    width: 940px;
+    width: 100%;
     margin: 0 auto;
     
     display: inline;
@@ -105,22 +105,18 @@ main{
 width: 270;
 
 }
-.productos1{height: 89;
-    width: 270;
+.productos1{width: auto;height: auto;
     
 }
-.productos2{height: 89;
-width: 270;
+.productos2{width: auto;height: auto;
 
 }
 
-.productos3{height: 89;
-    width: 270;
+.productos3{width: auto;height: auto;
     
 }
     
-.productos4{height: 89;
-width: 270;
+.productos4{width: auto;height: auto;
 
 }
 
